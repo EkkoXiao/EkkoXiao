@@ -1,5 +1,5 @@
 # 😶‍🌫️ Hello There! 🤩
-
+![](Walt.jpeg)
 ### 🫣 About Me:
 
 - 🏫 An undergraudate studying at Tsinghua University, Beijing 🇨🇳
