@@ -57,13 +57,13 @@ Sunday                   60 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Chemicals                15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
