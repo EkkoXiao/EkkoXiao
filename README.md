@@ -57,14 +57,13 @@ Sunday                   62 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-KDD                      11 mins             █████████████░░░░░░░░░░░░   50.18 % 
-DyNAS-DDI                11 mins             ████████████░░░░░░░░░░░░░   49.82 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
