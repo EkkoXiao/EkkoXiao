@@ -2,7 +2,7 @@
 ![](Walt.jpeg)
 ### 🫣 About Me:
 
-- 🏫 An undergraudate studying at Tsinghua University, Beijing 🇨🇳
+- 🏫 A master's student studying at Tsinghua University, Beijing 🇨🇳
 - 🎓 Preparing for graduation and post-graduation employment
 - 🎮 Interested in various video games
 - ⚽ Fans of football matches, siuuuuu~ 🇵🇹
