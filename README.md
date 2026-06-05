@@ -57,14 +57,13 @@ Sunday                   66 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               7 mins              ██████████████████████░░░   86.73 % 
-Bash                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Bio-GraphLLM-frontend    9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
