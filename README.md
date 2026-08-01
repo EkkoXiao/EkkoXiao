@@ -59,15 +59,15 @@ Sunday                   66 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 8 hrs 54 mins       █████████████████████████   99.80 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Markdown                 7 hrs 45 mins       █████████████████████████   99.76 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🐱‍💻 Projects: 
-NIPS                     8 hrs 54 mins       █████████████████████████   99.80 % 
-参会                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+NIPS                     7 hrs 45 mins       █████████████████████████   99.76 % 
+参会                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 💻 Operating System: 
-Mac                      8 hrs 55 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
