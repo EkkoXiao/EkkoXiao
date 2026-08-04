@@ -59,28 +59,28 @@ Sunday                   66 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 48 mins       █████████████████████░░░░   84.92 % 
-Other                    24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-Nunjucks                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-YAML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Markdown                 1 hr 3 mins         ██████████████░░░░░░░░░░░   55.39 % 
+Other                    24 mins             █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
+Nunjucks                 16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+YAML                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 🐱‍💻 Projects: 
-NIPS                     4 hrs 6 mins        ██████████████████░░░░░░░   72.49 % 
-hexo                     58 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-shoka                    33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-参会                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+hexo                     58 mins             █████████████░░░░░░░░░░░░   50.86 % 
+shoka                    33 mins             ███████░░░░░░░░░░░░░░░░░░   29.58 % 
+NIPS                     21 mins             █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+参会                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 💻 Operating System: 
-Mac                      5 hrs 39 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 54 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 47 mins (13.9%)
+⏱ AI Coding Time: 47 mins (41.12%)
 
-✍️ 88 lines written by AI, 239 lines written by hand (26.91% AI-written)
+✍️ 88 lines written by AI, 25 lines written by hand (77.88% AI-written)
 
 🔤 6,390,746 Input Tokens, 27,784 Output Tokens
 
@@ -91,10 +91,10 @@ Mac                      5 hrs 39 mins       ███████████�
 GPT                      90 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 26.91% of written lines came from AI
+🤖 AI-Driven — 77.88% of written lines came from AI
 📝 Concise Prompter — average 496 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 75.61% of changed lines were hand-edited
+🚀 High AI Trust — 25.0% of changed lines were hand-edited
 ```
 
 
