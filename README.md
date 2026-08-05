@@ -59,28 +59,26 @@ Sunday                   66 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 3 mins         ██████████████░░░░░░░░░░░   55.39 % 
-Other                    24 mins             █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
-Nunjucks                 16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-YAML                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Markdown                 1 hr 3 mins         ██████████████░░░░░░░░░░░   55.92 % 
+Other                    24 mins             █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
+Nunjucks                 16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+YAML                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
 
 🐱‍💻 Projects: 
-hexo                     58 mins             █████████████░░░░░░░░░░░░   50.86 % 
-shoka                    33 mins             ███████░░░░░░░░░░░░░░░░░░   29.58 % 
-NIPS                     21 mins             █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-参会                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+hexo                     58 mins             █████████████░░░░░░░░░░░░   51.35 % 
+shoka                    33 mins             ███████░░░░░░░░░░░░░░░░░░   29.87 % 
+NIPS                     21 mins             █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
 
 💻 Operating System: 
-Mac                      1 hr 54 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 53 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 47 mins (41.12%)
+⏱ AI Coding Time: 47 mins (41.52%)
 
-✍️ 88 lines written by AI, 25 lines written by hand (77.88% AI-written)
+✍️ 88 lines written by AI, 22 lines written by hand (80.0% AI-written)
 
 🔤 6,390,746 Input Tokens, 27,784 Output Tokens
 
@@ -91,10 +89,10 @@ Mac                      1 hr 54 mins        ███████████�
 GPT                      90 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 77.88% of written lines came from AI
+🤖 AI-Driven — 80.0% of written lines came from AI
 📝 Concise Prompter — average 496 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 25.0% of changed lines were hand-edited
+🚀 High AI Trust — 23.08% of changed lines were hand-edited
 ```
 
 
