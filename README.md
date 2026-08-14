@@ -59,39 +59,39 @@ Sunday                   66 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    12 hrs 7 mins       █████████████████████░░░░   83.29 % 
-Markdown                 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-CSV                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-Python                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+Other                    11 hrs 40 mins      █████████████████████░░░░   85.90 % 
+Markdown                 1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Python                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+CSV                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🐱‍💻 Projects: 
-材料                       14 hrs 30 mins      █████████████████████████   100.00 % 
+材料                       13 hrs 35 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      14 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 22 mins (99.07%)
+⏱ AI Coding Time: 13 hrs 27 mins (99.04%)
 
-✍️ 1,130 lines written by AI, 2 lines written by hand (99.82% AI-written)
+✍️ 896 lines written by AI, 4 lines written by hand (99.56% AI-written)
 
-🔤 202,126,130 Input Tokens, 167,210 Output Tokens
+🔤 197,871,105 Input Tokens, 157,166 Output Tokens
 
-💵 $1012.93 Estimated AI Cost This Week
+💵 $994.07 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 20 AI Prompts
+🧠 2 AI Sessions, 11 AI Prompts
 
-GPT                      1,247 lines         █████████████████████████   100.00 % 
+GPT                      1,013 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.82% of written lines came from AI
-📝 Concise Prompter — average 104 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 3.78% of changed lines were hand-edited
+🤖 AI-Driven — 99.56% of written lines came from AI
+📝 Concise Prompter — average 131 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 4.79% of changed lines were hand-edited
 ```
 
 
