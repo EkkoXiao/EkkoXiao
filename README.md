@@ -59,38 +59,19 @@ Sunday                   66 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 58 mins             █████████████████░░░░░░░░   69.24 % 
-JSON                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-Python                   10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-CSV                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-材料                       1 hr 24 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 24 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 18 mins (92.6%)
-
-✍️ 368 lines written by AI, 2 lines written by hand (99.46% AI-written)
-
-🔤 13,559,432 Input Tokens, 44,339 Output Tokens
-
-💵 $69.13 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 8 AI Prompts
-
-GPT                      485 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.46% of written lines came from AI
-📝 Concise Prompter — average 78 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 9.18% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
