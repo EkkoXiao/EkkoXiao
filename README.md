@@ -63,8 +63,8 @@ Markdown                 1 hr 11 mins        ███████████�
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-KDD                      40 mins             ██████████████░░░░░░░░░░░   57.26 % 
-Identification           30 mins             ███████████░░░░░░░░░░░░░░   42.74 % 
+KDD                      40 mins             ██████████████░░░░░░░░░░░   57.24 % 
+Identification           30 mins             ███████████░░░░░░░░░░░░░░   42.76 % 
 
 💻 Operating System: 
 Mac                      1 hr 11 mins        █████████████████████████   100.00 % 
@@ -73,9 +73,9 @@ Mac                      1 hr 11 mins        ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (13.41%)
+⏱ AI Coding Time: 9 mins (13.4%)
 
-✍️ 0 lines written by AI, 110 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 112 lines written by hand (0.0% AI-written)
 
 🔤 5,457 Input Tokens, 18 Output Tokens
 
