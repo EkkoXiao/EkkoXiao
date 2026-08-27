@@ -59,29 +59,28 @@ Sunday                   66 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 57 mins             ████████████████████░░░░░   80.73 % 
-Other                    9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Markdown                 25 mins             ████████████████░░░░░░░░░   64.51 % 
+Other                    9 mins              ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
+Python                   4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
 
 🐱‍💻 Projects: 
-Identification           50 mins             █████████████████░░░░░░░░   69.72 % 
-Code                     13 mins             █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
-KDD                      7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Identification           25 mins             ████████████████░░░░░░░░░   64.51 % 
+Code                     13 mins             █████████░░░░░░░░░░░░░░░░   35.49 % 
 
 💻 Operating System: 
-Mac                      1 hr 11 mins        █████████████████████████   100.00 % 
+Mac                      38 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 mins (27.1%)
+⏱ AI Coding Time: 19 mins (49.92%)
 
-✍️ 0 lines written by AI, 103 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 3 lines written by hand (0.0% AI-written)
 
-🔤 78,466 Input Tokens, 534 Output Tokens
+🔤 163,746 Input Tokens, 1,149 Output Tokens
 
-💵 $0.53 Estimated AI Cost This Week
+💵 $0.99 Estimated AI Cost This Week
 
 🧠 1 AI Sessions, 6 AI Prompts
 
