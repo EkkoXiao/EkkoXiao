@@ -59,39 +59,37 @@ Sunday                   66 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 37 mins             █████████████████░░░░░░░░   69.87 % 
-Other                    9 mins              █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-Python                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+Markdown                 16 mins             ██████████████████████░░░   88.05 % 
+TypeScript               2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 🐱‍💻 Projects: 
-Identification           37 mins             █████████████████░░░░░░░░   69.87 % 
-Code                     13 mins             ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-Bio-GraphLLM-frontend    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Identification           16 mins             ██████████████████████░░░   88.05 % 
+Bio-GraphLLM-frontend    2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
 
 💻 Operating System: 
-Mac                      53 mins             █████████████████████████   100.00 % 
+Mac                      18 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 mins (39.94%)
+⏱ AI Coding Time: 1 min (9.9%)
 
 ✍️ 0 lines written by AI, 20 lines written by hand (0.0% AI-written)
 
-🔤 182,219 Input Tokens, 1,283 Output Tokens
+🔤 18,473 Input Tokens, 134 Output Tokens
 
-💵 $1.11 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 8 AI Prompts
+🧠 1 AI Sessions, 2 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 98 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 162 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
