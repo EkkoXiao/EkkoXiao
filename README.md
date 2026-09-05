@@ -81,18 +81,18 @@ Mac                      2 hrs 38 mins       ███████████�
 
 ✍️ 0 lines written by AI, 707 lines written by hand (0.0% AI-written)
 
-🔤 200,156 Input Tokens, 12,162 Output Tokens
+🔤 206,239 Input Tokens, 13,688 Output Tokens
 
-💵 $1.67 Estimated AI Cost This Week
+💵 $1.82 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 7 AI Prompts
+🧠 2 AI Sessions, 7 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
 📝 Concise Prompter — average 321 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
