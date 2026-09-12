@@ -59,40 +59,40 @@ Sunday                   66 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
-Markdown                 1 hr 57 mins        ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
-Other                    1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Bash                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-TypeScript               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Python                   2 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.99 % 
+Markdown                 1 hr 57 mins        ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
+Other                    1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+Bash                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+TypeScript               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
 
 🐱‍💻 Projects: 
-测试脚本数据                   6 hrs 9 mins        ████████████████████░░░░░   78.85 % 
-DYInf Book               59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-Bio-GraphLLM-frontend    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+测试脚本数据                   6 hrs 6 mins        ████████████████████░░░░░   78.73 % 
+DYInf Book               59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Bio-GraphLLM-frontend    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Operating System: 
-Mac                      7 hrs 48 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 10 mins (66.17%)
+⏱ AI Coding Time: 5 hrs 7 mins (66.08%)
 
 ✍️ 686 lines written by AI, 60 lines written by hand (91.96% AI-written)
 
-🔤 2,625,308 Input Tokens, 132,996 Output Tokens
+🔤 2,544,396 Input Tokens, 129,901 Output Tokens
 
-💵 $21.27 Estimated AI Cost This Week
+💵 $20.75 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 60 AI Prompts
+🧠 8 AI Sessions, 58 AI Prompts
 
 GPT                      818 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 91.96% of written lines came from AI
-📝 Concise Prompter — average 278 characters per prompt
+📝 Concise Prompter — average 274 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 13.35% of changed lines were hand-edited
 ```
