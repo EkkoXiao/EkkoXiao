@@ -59,41 +59,41 @@ Sunday                   66 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 51 mins       ████████████████░░░░░░░░░   62.87 % 
-Text                     29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-Other                    22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-BibTeX                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-Python                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Markdown                 2 hrs 30 mins       ████████████████░░░░░░░░░   63.95 % 
+Text                     29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Python                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+BibTeX                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
 
 🐱‍💻 Projects: 
-DYInf Book               2 hrs 38 mins       ███████████████░░░░░░░░░░   58.33 % 
-测试脚本数据                   1 hr 39 mins        █████████░░░░░░░░░░░░░░░░   36.55 % 
-Identification           13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+DYInf Book               2 hrs 11 mins       ██████████████░░░░░░░░░░░   55.95 % 
+测试脚本数据                   1 hr 29 mins        ██████████░░░░░░░░░░░░░░░   38.11 % 
+Identification           13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
 
 💻 Operating System: 
-Mac                      4 hrs 32 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 16 mins (28.08%)
+⏱ AI Coding Time: 1 hr 6 mins (28.28%)
 
 ✍️ 137 lines written by AI, 25 lines written by hand (84.57% AI-written)
 
-🔤 472,082 Input Tokens, 22,478 Output Tokens
+🔤 468,375 Input Tokens, 22,464 Output Tokens
 
-💵 $3.90 Estimated AI Cost This Week
+💵 $3.88 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 8 AI Prompts
+🧠 1 AI Sessions, 7 AI Prompts
 
 GPT                      137 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 84.57% of written lines came from AI
-📝 Concise Prompter — average 254 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 39.38% of changed lines were hand-edited
+📝 Concise Prompter — average 277 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 37.16% of changed lines were hand-edited
 ```
 
 
