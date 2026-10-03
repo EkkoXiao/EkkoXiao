@@ -59,26 +59,26 @@ Sunday                   67 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 7 hrs 40 mins       ██████████████████████░░░   89.26 % 
-Python                   35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Markdown                 7 hrs 27 mins       ██████████████████████░░░   88.98 % 
+Python                   35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🐱‍💻 Projects: 
-hexo                     8 hrs 7 mins        ████████████████████████░   94.38 % 
-KDD 2027                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-shoka                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+hexo                     7 hrs 54 mins       ████████████████████████░   94.23 % 
+KDD 2027                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+shoka                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 💻 Operating System: 
-Mac                      8 hrs 36 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 mins (6.18%)
+⏱ AI Coding Time: 31 mins (6.34%)
 
-✍️ 37 lines written by AI, 1,627 lines written by hand (2.22% AI-written)
+✍️ 37 lines written by AI, 1,626 lines written by hand (2.22% AI-written)
 
 🔤 215,784 Input Tokens, 30,826 Output Tokens
 
