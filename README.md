@@ -59,39 +59,37 @@ Sunday                   68 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 3 mins        ███████████████████████░░   92.60 % 
-YAML                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Markdown                 2 hrs 31 mins       █████████████████████████   98.25 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 
 🐱‍💻 Projects: 
-hexo                     3 hrs 2 mins        █████████████████░░░░░░░░   69.18 % 
-KDD 2027                 1 hr 9 mins         ███████░░░░░░░░░░░░░░░░░░   26.52 % 
-shoka                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+hexo                     1 hr 24 mins        ██████████████░░░░░░░░░░░   54.89 % 
+KDD 2027                 1 hr 9 mins         ███████████░░░░░░░░░░░░░░   45.11 % 
 
 💻 Operating System: 
-Mac                      4 hrs 23 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 mins (5.75%)
+⏱ AI Coding Time: 2 mins (1.75%)
 
-✍️ 37 lines written by AI, 1,148 lines written by hand (3.12% AI-written)
+✍️ 0 lines written by AI, 694 lines written by hand (0.0% AI-written)
 
-🔤 130,605 Input Tokens, 8,366 Output Tokens
+🔤 70,409 Input Tokens, 4,397 Output Tokens
 
-💵 $1.04 Estimated AI Cost This Week
+💵 $0.59 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 2 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
-GPT                      37 lines            █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 3.12% of written lines came from AI
-📝 Concise Prompter — average 430 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 405 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 97.49% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
