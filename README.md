@@ -59,17 +59,17 @@ Sunday                   68 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 29 mins       ███████████████████░░░░░░   74.45 % 
-Python                   51 mins             ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Markdown                 1 hr 50 mins        █████████████████░░░░░░░░   68.37 % 
+Python                   51 mins             ████████░░░░░░░░░░░░░░░░░   31.57 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-hexo                     2 hrs 7 mins        ████████████████░░░░░░░░░   63.36 % 
-KDD 2027                 1 hr 9 mins         █████████░░░░░░░░░░░░░░░░   34.78 % 
-Code                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+hexo                     1 hr 28 mins        ██████████████░░░░░░░░░░░   54.64 % 
+KDD 2027                 1 hr 9 mins         ███████████░░░░░░░░░░░░░░   43.06 % 
+Code                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 
 💻 Operating System: 
-Mac                      3 hrs 20 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
