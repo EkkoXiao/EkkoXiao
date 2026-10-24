@@ -59,43 +59,43 @@ Sunday                   68 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 35 mins       ████████████░░░░░░░░░░░░░   49.97 % 
-Python                   3 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   28.01 % 
-Other                    1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-Text                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+Markdown                 3 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   41.65 % 
+Python                   3 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   32.69 % 
+Other                    1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Text                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 
 🐱‍💻 Projects: 
-新的世界                     4 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   41.39 % 
-你建我猜                     2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
-GraphRSI                 2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
-测试脚本数据                   1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-WhoIsSpy-fix-20261020    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+新的世界                     4 hrs 37 mins       ████████████░░░░░░░░░░░░░   48.31 % 
+你建我猜                     2 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
+测试脚本数据                   1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+GraphRSI                 55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+WhoIsSpy-fix-20261020    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 
 💻 Operating System: 
-Mac                      11 hrs 11 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 43 mins (69.07%)
+⏱ AI Coding Time: 7 hrs 16 mins (75.8%)
 
-✍️ 2,406 lines written by AI, 198 lines written by hand (92.4% AI-written)
+✍️ 2,406 lines written by AI, 150 lines written by hand (94.13% AI-written)
 
-🔤 3,664,138 Input Tokens, 525,218 Output Tokens
+🔤 3,404,337 Input Tokens, 513,546 Output Tokens
 
-💵 $23.20 Estimated AI Cost This Week
+💵 $22.34 Estimated AI Cost This Week
 
-🧠 37 AI Sessions, 83 AI Prompts
+🧠 33 AI Sessions, 71 AI Prompts
 
 GPT                      2,415 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.4% of written lines came from AI
+🤖 AI-Driven — 94.13% of written lines came from AI
 📝 Concise Prompter — average 395 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 7.65% of changed lines were hand-edited
+🚀 High AI Trust — 5.85% of changed lines were hand-edited
 ```
 
 
