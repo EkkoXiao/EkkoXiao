@@ -59,41 +59,40 @@ Sunday                   68 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   35.66 % 
-Markdown                 2 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   33.08 % 
-Other                    1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   25.89 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Other                    1 hr 39 mins        ██████████░░░░░░░░░░░░░░░   41.01 % 
+Python                   1 hr 13 mins        ████████░░░░░░░░░░░░░░░░░   30.36 % 
+Markdown                 1 hr 8 mins         ███████░░░░░░░░░░░░░░░░░░   28.02 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🐱‍💻 Projects: 
-新的世界                     3 hrs 19 mins       █████████████░░░░░░░░░░░░   51.75 % 
-你建我猜                     2 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   36.28 % 
-GraphRSI                 25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-WhoIsSpy-fix-20261020    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+你建我猜                     2 hrs 19 mins       ██████████████░░░░░░░░░░░   57.48 % 
+新的世界                     1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   34.06 % 
+WhoIsSpy-fix-20261020    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
 
 💻 Operating System: 
-Mac                      6 hrs 24 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 32 mins (86.47%)
+⏱ AI Coding Time: 3 hrs 49 mins (94.44%)
 
-✍️ 1,259 lines written by AI, 137 lines written by hand (90.19% AI-written)
+✍️ 808 lines written by AI, 21 lines written by hand (97.47% AI-written)
 
-🔤 2,958,579 Input Tokens, 412,647 Output Tokens
+🔤 2,357,299 Input Tokens, 319,828 Output Tokens
 
-💵 $19.24 Estimated AI Cost This Week
+💵 $15.70 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 55 AI Prompts
+🧠 19 AI Sessions, 33 AI Prompts
 
-GPT                      1,262 lines         █████████████████████████   100.00 % 
+GPT                      811 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.19% of written lines came from AI
-📝 Concise Prompter — average 409 characters per prompt
+🤖 AI-Driven — 97.47% of written lines came from AI
+📝 Concise Prompter — average 361 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 9.79% of changed lines were hand-edited
+🚀 High AI Trust — 2.52% of changed lines were hand-edited
 ```
 
 
